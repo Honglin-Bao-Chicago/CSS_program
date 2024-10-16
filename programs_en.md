@@ -159,7 +159,7 @@
 
    **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)** ([Jacob Foster](https://soc.ucla.edu/person/jacob-foster/), [Omar Lizardo](https://olizardo.github.io/mysite/), [Ian Lundberg](https://www.ianlundberg.org/))
 
-   **[University of Chicago, PhD in Data Science](https://codas.uchicago.edu/academics/phd-in-data-science/)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans))
+   **[University of Chicago, PhD in Data Science](https://codas.uchicago.edu/academics/phd-in-data-science/)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans), [Aaron Schein](https://www.aaronschein.com/), [Chenhao Tan](https://chenhaot.com/), [Joshua Conrad Jackson](https://datascience.uchicago.edu/people/joshua-conrad-jackson/))
 
    **[University of Chicago, PhD in Political Science](https://political-science.uchicago.edu/graduate-study)** ([Anton Strezhnev](https://www.antonstrezhnev.com), [Rochelle Terman](https://rochelleterman.com))
 
